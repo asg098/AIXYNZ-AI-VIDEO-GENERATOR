@@ -1,4 +1,4 @@
-# AIXYNZ-AI-VIDEO-GENERATOR
+# AIXYNZ-AI-VIDEO-GENERATOR(use at ypur own risk)
 A open sourced model used to make text to video 
 # 🎬 AIXYNZ AI Video Generator
 
